@@ -18,6 +18,6 @@ for i in range(N):
     sum += f(x)/w(x)
     I = 2*sum/N
     
-print("Integral, I = {0:.4f}".format(I)) 
+print("Integral, I = {0:.3f}".format(I)) 
 
 

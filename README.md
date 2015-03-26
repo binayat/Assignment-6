@@ -1,4 +1,4 @@
-# Assignment-6Assignment 6
+# Assignment-6 Results
 1. Radioactivity Decay:
 We simulates the radioactive decay of 10000 atoms of 213Bi by dividing time into slices of length dt = 1 s each.
 Keeping the tract of the number of atoms of ach of the four isotopes at all times for 20000 seconds, 
